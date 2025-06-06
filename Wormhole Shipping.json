@@ -1,0 +1,15 @@
+{
+  "development": {
+    "cost": 0
+  },
+  "usa": {
+    "cost": 7000,
+    "freeForCraftCanna": true
+  },
+  "canada": {
+    "cost": 40000
+  },
+  "default": {
+    "cost": 50000
+  }
+} 
