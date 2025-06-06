@@ -1,24 +1,15 @@
-const pricing = {
-  development: { cost: 0 },
-  usa: { cost: 7000, freeForCraftCanna: true },
-  canada: { cost: 40000 },
-  default: { cost: 50000 }
-};
-
-const regionAliases = {
-  usa: ['usa', 'united states', 'the united states'],
-  canada: ['canada'],
-  development: ['development']
-};
-
-function getCostByRegion(input) {
-  const normalizedInput = input.toLowerCase().replace(/\s+/g, ' ').trim();
-  
-  for (const [region, aliases] of Object.entries(regionAliases)) {
-    if (aliases.includes(normalizedInput)) {
-      return pricing[region].cost;
-    }
+{
+  "development": {
+    "cost": 0
+  },
+  "usa": {
+    "cost": 7000,
+    "freeForCraftCanna": true
+  },
+  "canada": {
+    "cost": 40000
+  },
+  "default": {
+    "cost": 50000
   }
-  
-  return pricing.default.cost;
 }
