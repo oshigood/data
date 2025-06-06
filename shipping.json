@@ -1,4 +1,4 @@
-const shippingCosts = {
+{
   "development": {
     "cost": 0
   },
@@ -12,27 +12,4 @@ const shippingCosts = {
   "default": {
     "cost": 50000
   }
-};
-
-function getShippingCost(country) {
-  // Normalize input: convert to lowercase and remove spaces
-  const normalizedCountry = country.toLowerCase().replace(/\s+/g, '');
-  
-  // Map common variations to the "usa" key
-  const countryKey = (normalizedCountry === 'unitedstates' || 
-                     normalizedCountry === 'usa' || 
-                     normalizedCountry === 'us' || 
-                     normalizedCountry === 'unitedstatesofamerica') 
-                     ? 'usa' 
-                     : normalizedCountry;
-  
-  // Return the cost for the matched key, or default if no match
-  return shippingCosts[countryKey]?.cost ?? shippingCosts['default'].cost;
 }
-
-// Example usage:
-console.log(getShippingCost('united states')); // Outputs 7000
-console.log(getShippingCost('USA')); // Outputs 7000
-console.log(getShippingCost('us')); // Outputs 7000
-console.log(getShippingCost('canada')); // Outputs 40000
-console.log(getShippingCost('unknown')); // Outputs 50000
