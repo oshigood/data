@@ -6,6 +6,14 @@
     "cost": 7000,
     "freeForCraftCanna": true
   },
+  "united states": {
+    "cost": 7000,
+    "freeForCraftCanna": true
+  },
+  "the united states": {
+    "cost": 7000,
+    "freeForCraftCanna": true
+  },
   "canada": {
     "cost": 40000
   },
