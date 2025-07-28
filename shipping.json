@@ -15,9 +15,9 @@
     "freeForCraftCanna": true
   },
   "canada": {
-    "cost": 38000
+    "cost": 30000
   },
   "default": {
-    "cost": 50000
+    "cost": 40000
   }
 }
