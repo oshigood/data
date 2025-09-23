@@ -18,5 +18,10 @@
       "code": "Clevelandbitcoin",
       "type": "percentage",
       "value": 10
+    },
+    {
+      "code": "test",
+      "type": "percentage",
+      "value": 20
     }
   ]
