@@ -15,6 +15,11 @@
       "value": 0
     },
     {
+      "code": "STRIKE",
+      "type": "percentage",
+      "value": 10
+    },
+    {
       "code": "Clevelandbitcoin",
       "type": "percentage",
       "value": 10
