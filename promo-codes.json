@@ -23,5 +23,10 @@
     "code": "Clevelandbitcoin",
     "type": "percentage",
     "value": 10
+  },
+  {
+    "code": "branta5",
+    "type": "percentage",
+    "value": 5
   }
 ]
