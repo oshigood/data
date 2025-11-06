@@ -28,5 +28,10 @@
     "code": "branta5",
     "type": "percentage",
     "value": 5
+  },
+  {
+    "code": "savannah7",
+    "type": "percentage",
+    "value": 7
   }
 ]
