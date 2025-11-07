@@ -33,5 +33,10 @@
     "code": "savannah7",
     "type": "percentage",
     "value": 7
+  },
+  {
+    "code": "bkbtc",
+    "type": "percentage",
+    "value": 0
   }
 ]
