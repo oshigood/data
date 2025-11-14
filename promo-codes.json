@@ -38,5 +38,15 @@
     "code": "bkbtc",
     "type": "percentage",
     "value": 0
+  },
+  {
+    "code": "oshitwo",
+    "type": "percentage",
+    "value": 2
+  },
+  {
+    "code": "oshifive",
+    "type": "percentage",
+    "value": 5
   }
 ]
