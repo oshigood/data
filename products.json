@@ -35,5 +35,19 @@
 "shipping": 15000
 }
 }
+},
+"cocoa-banana-hodl-bar": {
+"packs": {
+"4-pack": {
+"priceMultiplier": 0.85,
+"displayName": "4-Pack",
+"shipping": 15000
+},
+"10-pack": {
+"priceMultiplier": 0.75,
+"displayName": "10-Pack",
+"shipping": 15000
+}
+}
 }
 }
