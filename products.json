@@ -1,1 +1,25 @@
-
+{
+"hodl-butter": {
+"packs": {
+"2-pack": {
+"priceMultiplier": 0.94,
+"displayName": "2-Pack",
+"shipping": 12000
+},
+"4-pack": {
+"priceMultiplier": 0.85,
+"displayName": "4-Pack",
+"shipping": 18000
+}
+}
+},
+"crunchy-coffee-hodl-butter": {
+"packs": {
+"2-pack": {
+"priceMultiplier": 0.94,
+"displayName": "2-Pack",
+"shipping": 12000
+}
+}
+}
+}
