@@ -4,12 +4,12 @@
 "2-pack": {
 "priceMultiplier": 0.90,
 "displayName": "2-Pack",
-"shipping": 15000
+"shippingMultiplier": 15000
 },
 "4-pack": {
 "priceMultiplier": 0.85,
 "displayName": "4-Pack",
-"shipping": 15000
+"shippingMultiplier": 15000
 }
 }
 },
@@ -18,7 +18,7 @@
 "2-pack": {
 "priceMultiplier": 0.90,
 "displayName": "2-Pack",
-"shipping": 15000
+"shippingMultiplier": 15000
 }
 }
 },
@@ -27,12 +27,12 @@
 "4-pack": {
 "priceMultiplier": 0.95,
 "displayName": "4-Pack",
-"shipping": 10000
+"shippingMultiplier": 10000
 },
 "10-pack": {
 "priceMultiplier": 0.87,
 "displayName": "10-Pack",
-"shipping": 15000
+"shippingMultiplier": 15000
 }
 }
 },
@@ -41,12 +41,12 @@
 "4-pack": {
 "priceMultiplier": 0.95,
 "displayName": "4-Pack",
-"shipping": 10000
+"shippingMultiplier": 10000
 },
 "10-pack": {
 "priceMultiplier": 0.87,
 "displayName": "10-Pack",
-"shipping": 15000
+"shippingMultiplier": 15000
 }
 }
 }
