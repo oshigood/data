@@ -25,12 +25,12 @@
 "mint-cookie-hodl-bar": {
 "packs": {
 "4-pack": {
-"priceMultiplier": 0.90,
+"priceMultiplier": 0.95,
 "displayName": "4-Pack",
 "shipping": 10000
 },
 "10-pack": {
-"priceMultiplier": 0.85,
+"priceMultiplier": 0.87,
 "displayName": "10-Pack",
 "shipping": 15000
 }
@@ -39,12 +39,12 @@
 "cocoa-banana-hodl-bar": {
 "packs": {
 "4-pack": {
-"priceMultiplier": 0.90,
+"priceMultiplier": 0.95,
 "displayName": "4-Pack",
 "shipping": 10000
 },
 "10-pack": {
-"priceMultiplier": 0.85,
+"priceMultiplier": 0.87,
 "displayName": "10-Pack",
 "shipping": 15000
 }
