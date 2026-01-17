@@ -35,7 +35,7 @@
 "shippingMultiplier": 1
 },
 "10-pack": {
-"priceMultiplier": 0.87,
+"priceMultiplier": 0.90,
 "displayName": "10-Pack",
 "shippingMultiplier": 1.5
 }
@@ -49,7 +49,7 @@
 "shippingMultiplier": 1
 },
 "10-pack": {
-"priceMultiplier": 0.87,
+"priceMultiplier": 0.90,
 "displayName": "10-Pack",
 "shippingMultiplier": 1.5
 }
