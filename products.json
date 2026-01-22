@@ -30,7 +30,7 @@
 "chocolate-hodl-butter": {
 "packs": {
 "bitcoin-beans-bundle": {
-"priceMultiplier": .59,
+"priceMultiplier": 0.59,
 "displayName": "Bitcoin Beans Bundle",
 "shippingMultiplier": 1.5
 },
