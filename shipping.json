@@ -3,117 +3,117 @@
     "cost": 0
   },
   "usa": {
-    "cost": 9500,
+    "cost": 12000,
     "freeForCraftCanna": true
   },
   "us": {
-    "cost": 9500,
+    "cost": 12000,
     "freeForCraftCanna": true
   },
   "u.s.": {
-    "cost": 9500,
+    "cost": 12000,
     "freeForCraftCanna": true
   },
   "u.s.a": {
-    "cost": 9500,
+    "cost": 12000,
     "freeForCraftCanna": true
   },
   "u.s.a.": {
-    "cost": 9500,
+    "cost": 12000,
     "freeForCraftCanna": true
   },
   "united states": {
-    "cost": 9500,
+    "cost": 12000,
     "freeForCraftCanna": true
   },
   "united states of america": {
-    "cost": 9500,
+    "cost": 12000,
     "freeForCraftCanna": true
   },
   "the united states": {
-    "cost": 9500,
+    "cost": 12000,
     "freeForCraftCanna": true
   },
   "the united states of america": {
-    "cost": 9500,
+    "cost": 12000,
     "freeForCraftCanna": true
   },
   "the usa": {
-    "cost": 9500,
+    "cost": 12000,
     "freeForCraftCanna": true
   },
   "the us": {
-    "cost": 9500,
+    "cost": 12000,
     "freeForCraftCanna": true
   },
   "america": {
-    "cost": 9500,
+    "cost": 12000,
     "freeForCraftCanna": true
   },
   "the america": {
-    "cost": 9500,
+    "cost": 12000,
     "freeForCraftCanna": true
   },
   "united states america": {
-    "cost": 9500,
+    "cost": 12000,
     "freeForCraftCanna": true
   },
   "states": {
-    "cost": 9500,
+    "cost": 12000,
     "freeForCraftCanna": true
   },
   "the states": {
-    "cost": 9500,
+    "cost": 12000,
     "freeForCraftCanna": true
   },
   "u s": {
-    "cost": 9500,
+    "cost": 12000,
     "freeForCraftCanna": true
   },
   "u s a": {
-    "cost": 9500,
+    "cost": 12000,
     "freeForCraftCanna": true
   },
   "américas": {
-    "cost": 9500,
+    "cost": 12000,
     "freeForCraftCanna": true
   },
   "estados unidos": {
-    "cost": 9500,
+    "cost": 12000,
     "freeForCraftCanna": true
   },
   "eeuu": {
-    "cost": 9500,
+    "cost": 12000,
     "freeForCraftCanna": true
   },
   "e.e.u.u.": {
-    "cost": 9500,
+    "cost": 12000,
     "freeForCraftCanna": true
   },
   "etats-unis": {
-    "cost": 9500,
+    "cost": 12000,
     "freeForCraftCanna": true
   },
   "états-unis": {
-    "cost": 9500,
+    "cost": 12000,
     "freeForCraftCanna": true
   },
   "canada": {
-    "cost": 32000
+    "cost": 41000
   },
   "can": {
-    "cost": 32000
+    "cost": 41000
   },
   "ca": {
-    "cost": 32000
+    "cost": 41000
   },
   "the canada": {
-    "cost": 32000
+    "cost": 41000
   },
   "canadá": {
-    "cost": 32000
+    "cost": 41000
   },
   "default": {
-    "cost": 50000
+    "cost": 71000
   }
 }
